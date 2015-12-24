@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "br.com.fabio.demobroadcastreceiver.Main22Activity"/>
+      <point      
+        x = "1996"      
+        y = "148"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "br.com.fabio.demobroadcastreceiver.MainActivity"/>
+      <point      
+        x = "84"      
+        y = "168"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "br.com.fabio.demobroadcastreceiver.Main2Activity"/>
+      <point      
+        x = "984"      
+        y = "200"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
