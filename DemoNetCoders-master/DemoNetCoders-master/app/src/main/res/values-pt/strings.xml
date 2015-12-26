@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">DemoNet Coders</string>
+
+    <string name="hello_world">Oi Mundo</string>
+
+    <string name="action_settings">Configurações</string>
+
+    <string name="label_titulo_menu_principal">Car Registration</string>
+
+    <string name="botao_cadastro">Register</string>
+
+    <string name="botao_sair">Exit</string>
+
+    <string name="botao_visualizar">Ver Carros</string>
+
+    <string name="title_activity_cadastro">Cadastro de Automóveis</string>
+
+    <string name="title_activity_visualizar">Lista de Automóveis</string>
+
+    <string name="label_placa">Placa</string>
+
+    <string name="hint_informe_placa">Informe a placa</string>
+
+    <string name="label_marca">Marca</string>
+
+    <string name="hint_informe_marca">Informe a marca</string>
+
+    <string name="label_combustivel">Combustível</string>
+
+    <string name="label_fabricacao">Fabricação</string>
+
+    <string name="label_modelo">Modelo</string>
+
+    <string name="label_salvar">Salvar</string>
+
+    <string name="msg_sucesso">Cadastro com sucesso</string>
+
+    <string name="msg_erro">Erro ao cadastrar</string>
+
+</resources>

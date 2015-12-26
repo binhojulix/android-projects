@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="combustiveis">
+        <item>Etanol</item>
+        <item>Gasolina</item>
+        <item>GNV</item>
+        <item>Flex</item>
+        <item>Diesel</item>
+        <item>Eletrico</item>
+    </array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android-Sensores</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lista_sensores">ListaSensores</string>
+    <string name="botao_lista_sensores">Listar Sensores</string>
+    <string name="botao_luz">Exemplo Iluminação</string>
+    <string name="botao_proximidade">Exemplo Proximidade</string>
+    <string name="title_activity_sensor_luz">SensorLuzActivity</string>
+    <string name="title_activity_sensor_proximidade">SensorProximidadeActivity</string>
+
+</resources>

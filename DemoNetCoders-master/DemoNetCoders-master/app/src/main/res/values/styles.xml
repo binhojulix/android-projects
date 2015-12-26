@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="label_listview">
+        <item name="android:textColor">@color/cinza_escuro</item>
+    </style>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>
