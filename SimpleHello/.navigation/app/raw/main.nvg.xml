@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<navigationModel
-  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
-  <locations class = "java.util.ArrayList">
-
-  </locations>
-</navigationModel>
