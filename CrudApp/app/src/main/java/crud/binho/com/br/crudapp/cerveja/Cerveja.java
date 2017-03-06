@@ -9,6 +9,7 @@ public class Cerveja {
     private String nome;
     private int nota;
     private String foto;
+    private double valor;
 
     public Cerveja() {
     }
@@ -49,5 +50,13 @@ public class Cerveja {
 
     public void setFoto(String foto) {
         this.foto = foto;
+    }
+
+    public double getValor() {
+        return valor;
+    }
+
+    public void setValor(double valor) {
+        this.valor = valor;
     }
 }

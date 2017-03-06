@@ -38,7 +38,7 @@ public class CervejaAdapter extends BaseAdapter {
 
     @Override
     public long getItemId(int position) {
-        return beers.get(position).getId();
+        return position;
     }
 
     @Override
@@ -50,11 +50,9 @@ public class CervejaAdapter extends BaseAdapter {
 
         }
         TextView tvNome = (TextView) convertView.findViewById(R.id.textView);
-        ImageView imageView = (ImageView) convertView.findViewById(R.id.imageView);
-        RatingBar rtNotas = (RatingBar) convertView.findViewById(R.id.ratingBar);
 
         tvNome.setText(beers.get(position).getNome());
-        rtNotas.setRating(beers.get(position).getNota());
+
         return convertView;
     }
 }
